@@ -6,13 +6,11 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;AI+%26+Speech+Recognition+Enthusiast;Always+Learning+and+Building" />
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=hari-w8&label=Profile+Views&color=70A5FD&style=flat" /> </div>
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <h2>👤 About Me</h2>
 
 <table>
 <tr>
+
 <td width="65%">
 
 <h1>Hariharan R</h1>
@@ -23,10 +21,14 @@
 Passionate Computer Science Engineering student focused on building
 modern web applications, AI-powered systems, and intuitive user
 experiences.
+</p>
 
+<p>
 I enjoy transforming ideas into real products using React, Node.js,
 MongoDB, Python, and emerging AI technologies.
+</p>
 
+<p>
 Currently exploring advanced full-stack development, machine learning,
 and scalable software architecture.
 </p>
@@ -35,17 +37,31 @@ and scalable software architecture.
 
 <td width="35%" align="center">
 
-<img width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<h3>🖼️ Profile Showcase</h3>
+
+<i>
+Future space reserved for:
+<br>
+Anime Artwork
+<br>
+Project Preview
+<br>
+Custom Avatar
+<br>
+Minova Assistant Artwork
+</i>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
 <table>
+
 <tr>
-<td>📍 <b>Location</b></td>
+<td width="25%">📍 <b>Location</b></td>
 <td>Tamil Nadu, India</td>
 </tr>
 
@@ -73,6 +89,7 @@ and scalable software architecture.
 <td>⚡ <b>Goal</b></td>
 <td>Software Developer 2026</td>
 </tr>
+
 </table>
 ⚡ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" /> </div>
