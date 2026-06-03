@@ -6,50 +6,56 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;AI+%26+Speech+Recognition+Enthusiast;Always+Learning+and+Building" />
 
 <br><br>
-<h2>👤 About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
-<table>
+<div align="center">
+
+# Hariharan R
+
+### Full Stack MERN Developer • AI Enthusiast
+
+Building modern web applications, AI-powered systems,
+and future-ready software experiences.
+
+Currently exploring advanced full-stack development,
+machine learning, and scalable software architecture.
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
 
-<td width="65%">
+<td align="center" width="33%">
 
-<h1>Hariharan R</h1>
+### 📍
 
-<h3>Full Stack MERN Developer • AI Enthusiast</h3>
+### Location
 
-<p>
-Passionate Computer Science Engineering student focused on building
-modern web applications, AI-powered systems, and intuitive user
-experiences.
-</p>
-
-<p>
-I enjoy transforming ideas into real products using React, Node.js,
-MongoDB, Python, and emerging AI technologies.
-</p>
-
-<p>
-Currently exploring advanced full-stack development, machine learning,
-and scalable software architecture.
-</p>
+Tamil Nadu, India
 
 </td>
 
-<td width="35%" align="center">
+<td align="center" width="33%">
 
-<h3>🖼️ Profile Showcase</h3>
+### 🚀
 
-<i>
-Future space reserved for:
-<br>
-Anime Artwork
-<br>
-Project Preview
-<br>
-Custom Avatar
-<br>
-Minova Assistant Artwork
-</i>
+### Focus
+
+MERN Stack<br>
+Artificial Intelligence
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯
+
+### Goal
+
+Software Developer<br>
+2026
 
 </td>
 
@@ -58,40 +64,11 @@ Minova Assistant Artwork
 
 <br>
 
-<table>
+<div align="center">
 
-<tr>
-<td width="25%">📍 <b>Location</b></td>
-<td>Tamil Nadu, India</td>
-</tr>
+🖼️ **Your Anime Artwork / Avatar / Minova Artwork goes here later**
 
-<tr>
-<td>💼 <b>Role</b></td>
-<td>Full Stack MERN Developer</td>
-</tr>
-
-<tr>
-<td>🎓 <b>Education</b></td>
-<td>B.E Computer Science Engineering</td>
-</tr>
-
-<tr>
-<td>🚀 <b>Focus</b></td>
-<td>MERN Stack, AI & Speech Recognition</td>
-</tr>
-
-<tr>
-<td>🌱 <b>Learning</b></td>
-<td>Machine Learning, Cloud, System Design</td>
-</tr>
-
-<tr>
-<td>⚡ <b>Goal</b></td>
-<td>Software Developer 2026</td>
-</tr>
-
-</table>
-⚡ Tech Arsenal
+</div>⚡ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" /> </div>
 🏆 Featured Projects
 🎤 Speech-to-Text Transcription System
