@@ -6,68 +6,71 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;AI+%26+Speech+Recognition+Enthusiast;Always+Learning+and+Building" />
 
 <br><br>
-<h2 align="center">👋 About Me</h2>
+<h2>👤 About Me</h2>
 
-<div align="center">
-
-# Hariharan R
-
-### Full Stack MERN Developer • AI Enthusiast
-
-Building modern web applications, AI-powered systems,
-and future-ready software experiences.
-
-Currently exploring advanced full-stack development,
-machine learning, and scalable software architecture.
-
-</div>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
+<td width="65%">
 
-<td align="center" width="33%">
+<h1>Hariharan R</h1>
 
-### 📍
+<h3>Full Stack MERN Developer • AI Enthusiast</h3>
 
-### Location
+<p>
+Passionate Computer Science Engineering student focused on building
+modern web applications, AI-powered systems, and intuitive digital
+experiences.
 
-Tamil Nadu, India
+I enjoy transforming ideas into real-world products using React,
+Node.js, MongoDB, Python, and emerging AI technologies.
 
-</td>
-
-<td align="center" width="33%">
-
-### 🚀
-
-### Focus
-
-MERN Stack<br>
-Artificial Intelligence
+Currently exploring advanced full-stack architecture, machine learning,
+and scalable software systems.
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td width="35%" align="center">
 
-### 🎯
+<!-- Replace with your custom image later -->
 
-### Goal
-
-Software Developer<br>
-2026
+<img width="280" src="YOUR_IMAGE_HERE">
 
 </td>
-
 </tr>
 </table>
 
-<br>
+<table>
+<tr>
+<td width="30%">📍 <b>Location</b></td>
+<td>Tamil Nadu, India</td>
+</tr>
 
-<div align="center">
+<tr>
+<td>💼 <b>Role</b></td>
+<td>Full Stack MERN Developer</td>
+</tr>
 
-🖼️ **Your Anime Artwork / Avatar / Minova Artwork goes here later**
+<tr>
+<td>🎓 <b>Education</b></td>
+<td>B.E Computer Science Engineering</td>
+</tr>
 
+<tr>
+<td>🚀 <b>Focus</b></td>
+<td>MERN Stack • AI • Speech Recognition</td>
+</tr>
+
+<tr>
+<td>🌱 <b>Currently Learning</b></td>
+<td>Machine Learning • Cloud • System Design</td>
+</tr>
+
+<tr>
+<td>⚡ <b>Goal</b></td>
+<td>Software Developer 2026</td>
+</tr>
+</table>
 </div>⚡ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" /> </div>
 🏆 Featured Projects
