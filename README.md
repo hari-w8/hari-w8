@@ -1,4 +1,8 @@
-Hi there, I'm Hariharan R 👋
+<div align="center">
+
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/5c45856d-b9ad-4bd3-bbf6-87bbe06803f7" />
+</div>
+
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;AI+%26+Speech+Recognition+Enthusiast;Always+Learning+and+Building" />
 
 <br><br>
