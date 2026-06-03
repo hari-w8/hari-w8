@@ -1,4 +1,4 @@
-#banner
+
 <div align="center">
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/5c45856d-b9ad-4bd3-bbf6-87bbe06803f7" />
 </div>
@@ -10,38 +10,18 @@
 <img src="https://komarev.com/ghpvc/?username=hari-w8&label=Profile+Views&color=70A5FD&style=flat" /> </div>
 🚀 About Me
 <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-const hariharan = {
-    role: "Full Stack MERN Developer",
-    education: "B.E Computer Science Engineering",
-    location: "Kumbakonam, Tamil Nadu, India",
+> boot sequence initiated...
 
-    techStack: [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "MySQL",
-        "JavaScript",
-        "Python",
-        "Tailwind CSS"
-    ],
+█████████████████████ 100%
 
-    interests: [
-        "Web Development",
-        "Artificial Intelligence",
-        "Speech Recognition",
-        "Machine Learning"
-    ],
+USER............. Hariharan R
+ROLE............. Full Stack Developer
+LOCATION......... Tamil Nadu, India
+STATUS........... Online
+FOCUS............ MERN + AI Systems
+MISSION.......... Build. Learn. Repeat.
 
-    currentlyLearning: [
-        "Advanced MERN Stack",
-        "System Design",
-        "Cloud Deployment",
-        "Machine Learning"
-    ],
-
-    motto: "Build today. Improve tomorrow."
-};
+> system ready
 <br clear="right"/>
 ⚡ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" /> </div>
