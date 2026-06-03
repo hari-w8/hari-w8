@@ -9,25 +9,71 @@
 
 <img src="https://komarev.com/ghpvc/?username=hari-w8&label=Profile+Views&color=70A5FD&style=flat" /> </div>
 <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-```bash
-> boot sequence initiated...
+<h2>👤 About Me</h2>
 
-████████████████████████ 100%
+<table>
+<tr>
+<td width="65%">
 
-USER      : Hariharan R
-ROLE      : Full Stack MERN Developer
-LOCATION  : Tamil Nadu, India
-STATUS    : Online
+<h1>Hariharan R</h1>
 
-FOCUS     : MERN + AI Systems
+<h3>Full Stack MERN Developer • AI Enthusiast</h3>
 
-MISSION   :
-Build.
-Learn.
-Repeat.
+<p>
+Passionate Computer Science Engineering student focused on building
+modern web applications, AI-powered systems, and intuitive user
+experiences.
 
-> system ready
-```
+I enjoy transforming ideas into real products using React, Node.js,
+MongoDB, Python, and emerging AI technologies.
+
+Currently exploring advanced full-stack development, machine learning,
+and scalable software architecture.
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>📍 <b>Location</b></td>
+<td>Tamil Nadu, India</td>
+</tr>
+
+<tr>
+<td>💼 <b>Role</b></td>
+<td>Full Stack MERN Developer</td>
+</tr>
+
+<tr>
+<td>🎓 <b>Education</b></td>
+<td>B.E Computer Science Engineering</td>
+</tr>
+
+<tr>
+<td>🚀 <b>Focus</b></td>
+<td>MERN Stack, AI & Speech Recognition</td>
+</tr>
+
+<tr>
+<td>🌱 <b>Learning</b></td>
+<td>Machine Learning, Cloud, System Design</td>
+</tr>
+
+<tr>
+<td>⚡ <b>Goal</b></td>
+<td>Software Developer 2026</td>
+</tr>
+</table>
 ⚡ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" /> </div>
 🏆 Featured Projects
