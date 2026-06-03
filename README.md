@@ -8,21 +8,26 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=hari-w8&label=Profile+Views&color=70A5FD&style=flat" /> </div>
-🚀 About Me
 <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+```bash
 > boot sequence initiated...
 
-█████████████████████ 100%
+████████████████████████ 100%
 
-USER............. Hariharan R
-ROLE............. Full Stack Developer
-LOCATION......... Tamil Nadu, India
-STATUS........... Online
-FOCUS............ MERN + AI Systems
-MISSION.......... Build. Learn. Repeat.
+USER      : Hariharan R
+ROLE      : Full Stack MERN Developer
+LOCATION  : Tamil Nadu, India
+STATUS    : Online
+
+FOCUS     : MERN + AI Systems
+
+MISSION   :
+Build.
+Learn.
+Repeat.
 
 > system ready
-<br clear="right"/>
+```
 ⚡ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman" /> </div>
 🏆 Featured Projects
