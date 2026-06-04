@@ -64,25 +64,11 @@
 
 <td width="33%" align="center">
 
-<img src="https://placehold.co/600x350/png?text=MINOVA+HORIZON">
+<img src="https://placehold.co/600x350/png?text=unknown">
 
-###  Minova Horizon
+### Unknown
 
-AI-powered desktop assistant with voice interaction and automation.
 
-<a href="#">
-<img src="https://img.shields.io/badge/View_Project-70A5FD?style=for-the-badge">
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://placehold.co/600x350/png?text=ACCENT+AWARE+SRT">
-
-###  Accent Aware SRT
-
-Speech recognition system with speaker adaptation techniques.
 
 <a href="#">
 <img src="https://img.shields.io/badge/View_Project-70A5FD?style=for-the-badge">
@@ -92,11 +78,25 @@ Speech recognition system with speaker adaptation techniques.
 
 <td width="33%" align="center">
 
-<img src="https://placehold.co/600x350/png?text=NANBAN'S+KOOTAM">
+<img src="https://placehold.co/600x350/png?text=unknown">
 
-###  Nanban's Kootam
+###  unknown
 
-Community platform focused on growth, teamwork and collaboration.
+
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-70A5FD?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://placehold.co/600x350/png?text=unknown">
+
+###  unknown
+
+
 
 <a href="#">
 <img src="https://img.shields.io/badge/View_Project-70A5FD?style=for-the-badge">
@@ -109,7 +109,7 @@ Community platform focused on growth, teamwork and collaboration.
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -121,7 +121,7 @@ Community platform focused on growth, teamwork and collaboration.
 
 ---
 
-# 🔥 Contribution Streak
+#  Contribution Streak
 
 <p align="center">
 
