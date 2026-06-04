@@ -24,25 +24,9 @@
 <td width="40%" valign="top">
 <h1>Hi guys !!, I'm Hariharan</h1>
 
-💻 Passionate Software Developer
+<p  align="baseline" >Passionate Computer Science student and developer with experience in Python, Flutter, React, and AI-based projects. Skilled in building innovative applications, voice assistants, and user-friendly interfaces. Strong problem-solving abilities, quick learner, and enthusiastic about exploring emerging technologies to create impactful solutions that enhance user experiences and productivity.</p>
 
-🤖 AI & Machine Learning Enthusiast
 
-🎓 AI & Data Science Student
-
-🚀 Creator of **Minova Horizon**
-
-🎤 Interested in Speech Recognition & Voice Assistants
-
-🌱 Currently Learning:
-- Deep Learning
-- Generative AI
-- React
-- PostgreSQL
-- System Design
-
-⚡ Fun Fact:
-> I enjoy building intelligent systems that interact naturally with humans.
 
 </td>
 
