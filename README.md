@@ -22,7 +22,7 @@
 <table border="0">
 <tr>
 <td width="40%" valign="top">
-<h1>Hi guys !!, I'm Hariharan</h1>
+<h1>Hi guys !!, I'm harii</h1>
 
 <p  align="baseline" >Passionate Computer Science student and developer with experience in Python, Flutter, React, and AI-based projects. Skilled in building innovative applications, voice assistants, and user-friendly interfaces. Strong problem-solving abilities, quick learner, and enthusiastic about exploring emerging technologies to create impactful solutions that enhance user experiences and productivity.</p>
 
