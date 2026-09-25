@@ -6,7 +6,7 @@
 
 
 
-<div align="center"> <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;AI+%26+Speech+Recognition+Enthusiast;Always+Learning+and+Building](https://i.pinimg.com/1200x/3f/6d/95/3f6d95cde0c365d8c181d6e31c5f34a3.jpg)" />
+<div align="center"> <img src="https://i.pinimg.com/1200x/3f/6d/95/3f6d95cde0c365d8c181d6e31c5f34a3.jpg" />
 </div>
 
 
