@@ -1,12 +1,12 @@
 
 <div align="center">
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/5c45856d-b9ad-4bd3-bbf6-87bbe06803f7" />
+<img width="1983" height="793" alt="image" src="https://i.pinimg.com/736x/9f/d3/de/9fd3deed06b2449db54d64a6b978d81b.jpg" />
 </div>
 
 
 
 
-<div align="center"> <img src="https://i.pinimg.com/1200x/3f/6d/95/3f6d95cde0c365d8c181d6e31c5f34a3.jpg" />
+
 </div>
 
 
